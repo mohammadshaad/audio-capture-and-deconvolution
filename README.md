@@ -17,6 +17,6 @@ This is a simple GUI made using Tkinter in Python. It simply captures the audio 
 ## Usage
 
 - Clone the repository using `git clone https://github.com/mohammadshaad audio-capture-gui-python.git`
-- Run the script using `python audio_capture_app.py`
+- Run the script using `python3 audio_capture_app.py`
 
 
