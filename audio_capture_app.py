@@ -42,6 +42,7 @@ class AudioCaptureApp:
             except Exception as e:
                 break
 
+#     self.stream.stop_stream()
     def stop_recording(self):
         self.stream.stop_stream()
         self.stream.close()
