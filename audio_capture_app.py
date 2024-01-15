@@ -3,6 +3,7 @@ import pyaudio
 import wave
 import threading
 
+
 class AudioCaptureApp:
     def __init__(self, master):
         self.master = master
